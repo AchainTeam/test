@@ -18,6 +18,7 @@
       密码   <input name="user.password" type="password"/><br/>
       <br/>
       <input value="登录" type="submit"/>
+      <input value="注册" type="submit"/>
     </form>
   </center>
   </body>
